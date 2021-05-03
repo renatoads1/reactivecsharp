@@ -1,0 +1,16 @@
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\bin\Debug\netcoreapp3.1\reactivecsharp.exe
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\bin\Debug\netcoreapp3.1\reactivecsharp.deps.json
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\bin\Debug\netcoreapp3.1\reactivecsharp.runtimeconfig.json
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\bin\Debug\netcoreapp3.1\reactivecsharp.runtimeconfig.dev.json
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\bin\Debug\netcoreapp3.1\reactivecsharp.dll
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\bin\Debug\netcoreapp3.1\reactivecsharp.pdb
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\obj\Debug\netcoreapp3.1\reactivecsharp.csprojAssemblyReference.cache
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\obj\Debug\netcoreapp3.1\reactivecsharp.AssemblyInfoInputs.cache
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\obj\Debug\netcoreapp3.1\reactivecsharp.AssemblyInfo.cs
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\obj\Debug\netcoreapp3.1\reactivecsharp.csproj.CoreCompileInputs.cache
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\obj\Debug\netcoreapp3.1\reactivecsharp.csproj.CopyComplete
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\obj\Debug\netcoreapp3.1\reactivecsharp.dll
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\obj\Debug\netcoreapp3.1\reactivecsharp.pdb
+C:\Users\renatovmi2021\source\repos\reactivecsharp\reactivecsharp\obj\Debug\netcoreapp3.1\reactivecsharp.genruntimeconfig.cache

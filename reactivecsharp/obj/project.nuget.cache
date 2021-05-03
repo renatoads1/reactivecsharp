@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlsfjDGEm4d2t+0vYZwZnXdIAEVCTN+KPXLcGdwEAiM8VbfPam7/8M40d3FvZVhay7MmD3cUZX7yL6lY6Zi2mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renatovmi2021\\source\\repos\\reactivecsharp\\reactivecsharp\\reactivecsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renatovmi2021\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
